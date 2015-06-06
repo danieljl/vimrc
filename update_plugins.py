@@ -39,6 +39,8 @@ syntastic https://github.com/scrooloose/syntastic
 vim-repeat https://github.com/tpope/vim-repeat
 vim-commentary https://github.com/tpope/vim-commentary
 vim-go https://github.com/fatih/vim-go
+vim-misc https://github.com/xolox/vim-misc
+vim-session https://github.com/xolox/vim-session
 """.strip()
 
 GITHUB_ZIP = '%s/archive/master.zip'
